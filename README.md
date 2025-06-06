@@ -1,4 +1,4 @@
-# Selenium_Junit_Java
+# Selenium Junit Java
 # UDEMY
 
 Testes funcionais com Selenium WebDriver: Do básico ao GRID 
